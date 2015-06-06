@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-05-23 23:26:12
+photo: thumb_IMG_1504_1024.jpg
+caption_header: グレープフルーツサラダ
+caption: 目黒のCafe Sibafuからパクった超うまいサラダ
+---
