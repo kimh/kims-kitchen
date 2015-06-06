@@ -183,3 +183,15 @@ a:hover {
 		text-indent: 30px;
 	}
 }
+
+#kuro {
+	width: 150px;
+	height: 150px;
+	margin-left: 400px;
+}
+
+#leo {
+	width: 180px;
+	height: 180px;
+	margin-left: 100px;
+}
