@@ -2,7 +2,6 @@ name: Kim's Kitchen
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
-url: http://localhost:4000
 author:
-    name: Hirokuni Kimpp
+    name: Hirokuni Kim
     twitter: #
