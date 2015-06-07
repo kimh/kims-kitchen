@@ -4,8 +4,8 @@ layout: default
 <div class="container">
 	<header class="clearfix">
 		<h1>{{ site.name }}</h1>
-		<img id="kuro" src="{{ site.baseurl }}/img/kuro.png" alt="" />
-		<img id="leo" src="{{ site.baseurl }}/img/leo.png" alt="" />
+		<img id="kuro" src="{{ site.baseurl }}img/kuro.png" alt="" />
+		<img id="leo" src="{{ site.baseurl }}img/leo.png" alt="" />
 	</header>
 	<div id="grid-gallery" class="grid-gallery">
 
@@ -15,7 +15,7 @@ layout: default
 		{% for post in site.posts %}
 		<li>
 			<figure>
-				<img src="{{ site.baseurl }}/img/thumb/{{ post.photo }}" alt="img"/>
+				<img src="{{ site.baseurl }}img/thumb/{{ post.photo }}" alt="img"/>
 				<figcaption>
 					<h3>{{ post.caption_header}}</h3>
 					<p>{{ post.caption }}</p>
@@ -31,7 +31,7 @@ layout: default
 		{% for post in site.posts %}
 		<li>
 			<figure>
-				<img src="{{ site.baseurl }}/img/large/{{ post.photo }}" alt="img"/>
+				<img src="{{ site.baseurl }}img/large/{{ post.photo }}" alt="img"/>
 				<figcaption><h3>{{ post.caption_header}}</h3><p>{{ post.caption }}</p></figcaption>
 			</figure>
 		</li>
