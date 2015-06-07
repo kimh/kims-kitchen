@@ -1,7 +1,0 @@
----
-layout: default
-date:   2015-04-22 23:26:12
-photo: thumb_IMG_1407_1024.jpg
-caption_header: 韓国スペシャル
-caption: 神戸からもらったキムチとか
----

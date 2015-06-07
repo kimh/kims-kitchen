@@ -1,7 +1,0 @@
----
-layout: default
-date:   2015-05-22 23:26:12
-photo: thumb_IMG_1503_1024.jpg
-caption_header: スペアリブ
-caption: サラダに使おうと思って買ったオレンジの果汁をソースにした
----
