@@ -1,8 +1,0 @@
-name: Kim's Kitchen
-markdown: redcarpet
-pygments: true
-permalink: /:year/:month/:title/
-baseurl: /kims-kitchen
-author:
-    name: Hirokuni Kim
-    twitter: #

@@ -1,7 +1,0 @@
----
-layout: default
-date:   2015-03-23 23:26:12
-photo: thumb_IMG_1316_1024.jpg
-caption_header: かづや風ラーメン
-caption: まーまーそれっぽかった
----
