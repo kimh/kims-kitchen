@@ -10,10 +10,11 @@ layout: default
 	<div id="grid-gallery" class="grid-gallery">
 
 	<section class="grid-wrap">
-	<ul class="grid">
+	  <ul class="grid">
 		<li class="grid-sizer"></li><!-- for Masonry column width -->
 		{% for post in site.posts %}
 		<li>
+		        <i style="margin-left: 10px;color:#000">{{ post.date | date_to_string }}</i>
 			<figure>
 				<img src="{{ site.baseurl }}/img/thumb/{{ post.photo }}" alt="img"/>
 				<figcaption>
