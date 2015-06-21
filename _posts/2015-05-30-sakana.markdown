@@ -3,5 +3,5 @@ layout: default
 date:   2015-05-30 23:26:12
 photo: thumb_IMG_1513_1024.jpg
 caption_header: 白身魚のソテーと長芋のベーコン巻き
-caption: 美香が式根からもらった魚を使って作った
+caption: 嫁が実家からもらった魚を使って作った
 ---
