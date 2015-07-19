@@ -3,5 +3,5 @@ layout: default
 date:   2015-06-29 23:26:12
 photo: thumb_IMG_1591_1024.jpg
 caption_header: 魚のすり身揚げ
-caption: 
+caption: 地元の魚のすり身を揚げた。今まであんまり好きじゃなかったけど人参を入れたらすごく美味しくなった。
 ---
