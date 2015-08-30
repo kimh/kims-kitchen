@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-08-01 00:00:00
+photo: IMG_1669.jpg
+caption_header: ロールキャベツ
+caption: 嫁の得意料理。いつもどおり美味しい安定した品質。
+---

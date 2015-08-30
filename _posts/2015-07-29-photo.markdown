@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-07-29 00:00:00
+photo: IMG_1655.jpg
+caption_header: カフェ風ソーセージプレート
+caption: 嫁がずっと食べたがってたから。ソーセージはアメリカで一番ポピュラーなJohnsonvilleをチョイス。
+---

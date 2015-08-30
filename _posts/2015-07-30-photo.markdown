@@ -1,0 +1,8 @@
+---
+layout: default
+date:   2015-07-30 00:00:00
+photo: IMG_1653.jpg
+caption_header: 冷やし中華
+caption: 冷やし中華は盛り付けが難しいなー
+---
+

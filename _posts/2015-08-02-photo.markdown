@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-08-02 00:00:00
+photo: IMG_1670.jpg
+caption_header: キャベツのドライカレー（再）
+caption: カレーが食べたくてココイチに行こうとしたけど、やっぱり自分で作ることにした。
+---

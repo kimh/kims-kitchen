@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-07-23 00:00:00
+photo: IMG_1637.jpg
+caption_header: 中華丼
+caption: 嫁の大好物、中華丼。ポイントは野菜をあまり煮込まないことと、いい感じでとろみをつけること。
+---

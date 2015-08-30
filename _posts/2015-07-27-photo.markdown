@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-07-27 00:00:00
+photo: IMG_1643.jpg
+caption_header: オープンサンド
+caption: おしゃれかなと思ってやってみたけど結構食べずらかったからもうやらない。
+---

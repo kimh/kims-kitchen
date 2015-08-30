@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-07-28 00:00:00
+photo: IMG_1645.jpg
+caption_header: ホワイトグラタン
+caption: グラタンの味はいつもマギーブイヨンの味一辺倒で面白くない。
+---

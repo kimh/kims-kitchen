@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-08-21 00:00:00
+photo: IMG_1743.jpg
+caption_header: 八宝菜
+caption: 嫁作八宝菜。味は美味しかったけど残念ながら片栗粉が品切れであんがサラサラに。
+---

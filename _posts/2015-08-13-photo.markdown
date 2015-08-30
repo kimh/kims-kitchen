@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-08-13 00:00:00
+photo: IMG_1697.jpg
+caption_header: ホットドック
+caption: (再)嫁のソーセージ食べたい衝動。余ったバターロールに挟んだ。この辺りからつわりがおさまってきた。
+---

@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-08-17 00:00:00
+photo: IMG_1714.jpg
+caption_header: 野菜たっぷり味噌ラーメン
+caption: 忙しかったから嫁が作ってくれたラー王の味噌ラーメン。
+---

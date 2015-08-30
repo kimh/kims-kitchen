@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-08-18 00:00:00
+photo: IMG_1717.jpg
+caption_header: シンプルチャーハン
+caption: 少し固めの炊き立てご飯で作るチャーハンは最高。
+---
