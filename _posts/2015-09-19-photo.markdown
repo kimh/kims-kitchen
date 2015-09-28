@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-19 00:00:00
+photo: IMG_1874.jpg
+caption_header: 旬のさんま
+caption: 目黒で買った油ノリノリな秋の味覚。この時期はレンコンもうまし。
+---

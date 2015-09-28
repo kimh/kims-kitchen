@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-13 00:00:00
+photo: IMG_1848.jpg
+caption_header: 中華風お粥
+caption: 嫁が作ってくれたお粥。大好物の青菜の炒め物にとても合う。
+---

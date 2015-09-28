@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-11 00:00:00
+photo: IMG_1841.jpg
+caption_header: お好み焼き（キャベツ焼き）
+caption: お好み焼きの粉なをけちったから圧倒的にキャベツの量が多くなってしまった。
+---

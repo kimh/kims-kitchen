@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-08-30 00:00:00
+photo: IMG_1780.jpg
+caption_header: 我が家の定番チキンライス
+caption: 定期的に食べたくなる味
+---

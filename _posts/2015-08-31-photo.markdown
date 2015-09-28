@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-08-31 00:00:00
+photo: IMG_1785.jpg
+caption_header: 卵焼き定食
+caption: 実家からもらった魚を消費すべく定食風にした。
+---

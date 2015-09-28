@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-20 00:00:00
+photo: IMG_1879.jpg
+caption_header: 鶏つくね串
+caption: 朝やってた男子ごはんでやってたから嫁に作ってもらった。すごい美味しくて一瞬で完食。
+---

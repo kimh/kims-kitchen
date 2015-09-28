@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-17 00:00:00
+photo: IMG_1862.jpg
+caption_header: カレーつけ麺
+caption: いつもカレーうどんだから気分を変えてつけ麺に。
+---

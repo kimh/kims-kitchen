@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-09 00:00:00
+photo: IMG_1835.jpg
+caption_header: チーズチキンカツ
+caption: 以外と中のチーズは外に出ないもの。
+---

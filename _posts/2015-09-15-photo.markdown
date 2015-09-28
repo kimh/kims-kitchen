@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-15 00:00:00
+photo: IMG_1855.jpg
+caption_header: 法事スペシャル
+caption: 実家でやった法事ご飯の余り。この日は朝から肉を焼いたり卵を焼いたりで大変だった。
+---

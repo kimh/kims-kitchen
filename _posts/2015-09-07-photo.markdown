@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-07 00:00:00
+photo: IMG_1822.jpg
+caption_header: 肉じゃが
+caption: ポイントは水を少なくして野菜の水分で煮ること。そうすれば野菜の味がしっかりする。
+---

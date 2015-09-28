@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-04 00:00:00
+photo: IMG_1807.jpg
+caption_header: たらこクリームパスタ
+caption: なんか納得しない味だったけど、忘れた。なんだったっけ。
+---

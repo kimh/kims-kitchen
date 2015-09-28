@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-01 00:00:00
+photo: IMG_1790.jpg
+caption_header: 鶏の照り焼き丼
+caption: チキンライスの残りを照り焼き風にした。火を通しすぎて少し硬くなった。
+---

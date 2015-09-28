@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-09-28 00:00:00
+photo: IMG_1901.jpg
+caption_header: 野菜たっぷりポン酢炒め
+caption: 忙しかったから嫁が作ってくれた。ポイントはポン酢しみしみのお揚げさんらしい。
+---
