@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-09 00:00:00
+photo: IMG_1937.jpg
+caption_header: ナスのカレー
+caption: ナスの半分は潰してペーストに、残りはあげて後のせにするのがポイント。結構うまかった。
+---

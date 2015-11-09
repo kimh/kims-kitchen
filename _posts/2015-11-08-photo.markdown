@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-11-08 00:00:00
+photo: IMG_2095.jpg
+caption_header: やまや明太子
+caption: 博多で買った明太子。子供の頃に食べてた明太子の味だった。肉豆腐と焼き野菜のマリネもうまくできた。
+---

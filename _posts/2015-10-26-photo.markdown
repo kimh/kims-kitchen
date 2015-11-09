@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-26 00:00:00
+photo: IMG_2013.jpg
+caption_header: 嫁の一人飯3日目
+caption: SFのオフィスの朝食でフレンチトーストを食べた言ったら嫁も食べたくなって自分で作ったらしい。
+---

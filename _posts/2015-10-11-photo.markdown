@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-11 00:00:00
+photo: IMG_1948.jpg
+caption_header: アジアンサラダ
+caption: アボカドを今回は入れてみたけど、それだけで全然違う感じのサラダになった
+---

@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-14 00:00:00
+photo: IMG_1961.jpg
+caption_header: かぼちゃグラタン
+caption: なんで作ったか忘れたけど、多分秋だからかぼちゃってことだったと思う。
+---

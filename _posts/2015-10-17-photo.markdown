@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-17 00:00:00
+photo: IMG_1975.jpg
+caption_header: 
+caption: 
+---

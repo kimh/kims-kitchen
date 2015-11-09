@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-11-01 00:00:00
+photo: IMG_2042.jpg
+caption_header: お稲荷さん
+caption: SFからの出張帰り+誕生日祝いで前から食べたかったお稲荷さんを嫁が作ってくれた。
+---

@@ -1,0 +1,8 @@
+---
+layout: default
+date:   2015-10-25 00:00:00
+photo: IMG_2009.jpg
+caption_header: 嫁の一人飯2日目
+caption: 野菜たっぷりで美味しかったらしい。
+---
+

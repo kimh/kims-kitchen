@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-07 00:00:00
+photo: IMG_1929.jpg
+caption_header: チリチーズフライ
+caption: 時々嫁が無性に食べたくなるみたいなので作った
+---

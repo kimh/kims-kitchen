@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-20 00:00:00
+photo: IMG_1985.jpg
+caption_header: 大和蒸し
+caption: 山芋をかけて蒸したものを大和蒸しと呼ぶらしい。テレビでやってて美味しそうだったから作ってみた。
+---

@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-12 00:00:00
+photo: IMG_1954.jpg
+caption_header: アップルパイ
+caption: りんごが余った時は必ず作る。鉄板メニュー。
+---

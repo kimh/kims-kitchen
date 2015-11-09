@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-04 00:00:00
+photo: IMG_1918.jpg
+caption_header: ほうれん草チャーハン
+caption:  銀座天厨菜館の翡翠炒飯を真似て作ってみた（食べたことないけど
+---

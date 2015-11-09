@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-18 00:00:00
+photo: IMG_1979.jpg
+caption_header: シュウマイ
+caption: 嫁が作ってくれた。餃子は野菜たっぷり、シュウマイは肉たっぷりがうまい。一瞬で全部食べてしまった。
+---

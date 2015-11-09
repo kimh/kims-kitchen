@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-11-03 00:00:00
+photo: IMG_2053.jpg
+caption_header: たこ焼き
+caption: なんと一回目から綺麗に焼けた。多分、お好み焼き粉を使ったのがよかったんだと思う。
+---

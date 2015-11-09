@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-11-09 00:00:00
+photo: IMG_2098.jpg
+caption_header: 高菜炒飯
+caption: 博多で買った高菜を使った。漬物嫌いの嫁にとって初めてまともに食べた高菜炒飯。
+---

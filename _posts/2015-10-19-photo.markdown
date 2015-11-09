@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-19 00:00:00
+photo: IMG_1982.jpg
+caption_header: 漬け丼の山芋かけ
+caption: スーパで売ってたマグロが安かったから
+---

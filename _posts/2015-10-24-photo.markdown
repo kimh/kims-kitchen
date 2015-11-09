@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-24 00:00:00
+photo: IMG_2005.jpg
+caption_header: 嫁の一人飯１日目
+caption: SFに出張している時に嫁が一人で作った。結構うまく焼けたらしい。
+---
