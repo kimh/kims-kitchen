@@ -6,6 +6,11 @@
 - Run import_pictures.sh
 - Add content to each post
 
+## Preview
+```
+jekyll serve  --baseurl kims-kitchen/
+```
+
 ## Deploy Command
 ```
 # Make sure you commit new posts and images into master branch
