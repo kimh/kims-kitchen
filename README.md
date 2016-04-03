@@ -8,7 +8,7 @@
 
 ## Preview
 ```
-jekyll serve  --baseurl kims-kitchen/
+jekyll serve  --baseurl /kims-kitchen
 ```
 
 ## Deploy Command
